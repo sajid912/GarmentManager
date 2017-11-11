@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/sajidkhan/AndroidStudioProjects/GarmentManager/app/build/intermediates/res/merged/release/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/sajidkhan/AndroidStudioProjects/GarmentManager/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sajidkhan/AndroidStudioProjects/GarmentManager/app/build/intermediates/res/merged/release/mipmap-hdpi/ic_icon.png",
+        "source": "/Users/sajidkhan/AndroidStudioProjects/GarmentManager/app/src/main/res/mipmap-hdpi/ic_icon.png"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/sajidkhan/AndroidStudioProjects/GarmentManager/app/build/intermediates/res/merged/release/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/sajidkhan/.android/build-cache/ae41a6c74c0566fd568d22b3086eb6af5d5ec1e0/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/sajidkhan/AndroidStudioProjects/GarmentManager/app/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/sajidkhan/.android/build-cache/88a7040096bfc43c1853c72b4c66da238f7984a4/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/sajidkhan/AndroidStudioProjects/GarmentManager/app/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/sajidkhan/.android/build-cache/88a7040096bfc43c1853c72b4c66da238f7984a4/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/sajidkhan/AndroidStudioProjects/GarmentManager/app/build/intermediates/res/merged/release/anim/design_fab_in.xml",
+        "source": "/Users/sajidkhan/.android/build-cache/ae41a6c74c0566fd568d22b3086eb6af5d5ec1e0/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/sajidkhan/AndroidStudioProjects/GarmentManager/app/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/sajidkhan/.android/build-cache/88a7040096bfc43c1853c72b4c66da238f7984a4/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/sajidkhan/AndroidStudioProjects/GarmentManager/app/build/intermediates/res/merged/release/anim/design_snackbar_out.xml",
+        "source": "/Users/sajidkhan/.android/build-cache/ae41a6c74c0566fd568d22b3086eb6af5d5ec1e0/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/sajidkhan/AndroidStudioProjects/GarmentManager/app/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/sajidkhan/.android/build-cache/88a7040096bfc43c1853c72b4c66da238f7984a4/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/sajidkhan/AndroidStudioProjects/GarmentManager/app/build/intermediates/res/merged/release/anim/design_fab_out.xml",
+        "source": "/Users/sajidkhan/.android/build-cache/ae41a6c74c0566fd568d22b3086eb6af5d5ec1e0/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/sajidkhan/AndroidStudioProjects/GarmentManager/app/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/sajidkhan/.android/build-cache/88a7040096bfc43c1853c72b4c66da238f7984a4/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/sajidkhan/AndroidStudioProjects/GarmentManager/app/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/sajidkhan/.android/build-cache/88a7040096bfc43c1853c72b4c66da238f7984a4/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/sajidkhan/AndroidStudioProjects/GarmentManager/app/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/sajidkhan/.android/build-cache/88a7040096bfc43c1853c72b4c66da238f7984a4/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/sajidkhan/AndroidStudioProjects/GarmentManager/app/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/sajidkhan/.android/build-cache/88a7040096bfc43c1853c72b4c66da238f7984a4/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/sajidkhan/AndroidStudioProjects/GarmentManager/app/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/sajidkhan/.android/build-cache/88a7040096bfc43c1853c72b4c66da238f7984a4/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/sajidkhan/AndroidStudioProjects/GarmentManager/app/build/intermediates/res/merged/release/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/sajidkhan/.android/build-cache/ae41a6c74c0566fd568d22b3086eb6af5d5ec1e0/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/sajidkhan/AndroidStudioProjects/GarmentManager/app/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/sajidkhan/.android/build-cache/88a7040096bfc43c1853c72b4c66da238f7984a4/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/sajidkhan/AndroidStudioProjects/GarmentManager/app/build/intermediates/res/merged/release/anim/design_snackbar_in.xml",
+        "source": "/Users/sajidkhan/.android/build-cache/ae41a6c74c0566fd568d22b3086eb6af5d5ec1e0/output/res/anim/design_snackbar_in.xml"
+    }
+]

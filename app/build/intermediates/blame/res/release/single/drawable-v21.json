@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/sajidkhan/AndroidStudioProjects/GarmentManager/app/build/intermediates/res/merged/release/drawable-v21/ic_menu_send.xml",
+        "source": "/Users/sajidkhan/AndroidStudioProjects/GarmentManager/app/src/main/res/drawable-v21/ic_menu_send.xml"
+    },
+    {
+        "merged": "/Users/sajidkhan/AndroidStudioProjects/GarmentManager/app/build/intermediates/res/merged/release/drawable-v21/ic_menu_share.xml",
+        "source": "/Users/sajidkhan/AndroidStudioProjects/GarmentManager/app/src/main/res/drawable-v21/ic_menu_share.xml"
+    },
+    {
+        "merged": "/Users/sajidkhan/AndroidStudioProjects/GarmentManager/app/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/sajidkhan/.android/build-cache/88a7040096bfc43c1853c72b4c66da238f7984a4/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/sajidkhan/AndroidStudioProjects/GarmentManager/app/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/sajidkhan/.android/build-cache/88a7040096bfc43c1853c72b4c66da238f7984a4/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/sajidkhan/AndroidStudioProjects/GarmentManager/app/build/intermediates/res/merged/release/drawable-v21/ic_menu_manage.xml",
+        "source": "/Users/sajidkhan/AndroidStudioProjects/GarmentManager/app/src/main/res/drawable-v21/ic_menu_manage.xml"
+    },
+    {
+        "merged": "/Users/sajidkhan/AndroidStudioProjects/GarmentManager/app/build/intermediates/res/merged/release/drawable-v21/nav_settings.png",
+        "source": "/Users/sajidkhan/AndroidStudioProjects/GarmentManager/app/src/main/res/drawable-v21/nav_settings.png"
+    },
+    {
+        "merged": "/Users/sajidkhan/AndroidStudioProjects/GarmentManager/app/build/intermediates/res/merged/release/drawable-v21/nav_help.png",
+        "source": "/Users/sajidkhan/AndroidStudioProjects/GarmentManager/app/src/main/res/drawable-v21/nav_help.png"
+    },
+    {
+        "merged": "/Users/sajidkhan/AndroidStudioProjects/GarmentManager/app/build/intermediates/res/merged/release/drawable-v21/ic_menu_camera.xml",
+        "source": "/Users/sajidkhan/AndroidStudioProjects/GarmentManager/app/src/main/res/drawable-v21/ic_menu_camera.xml"
+    },
+    {
+        "merged": "/Users/sajidkhan/AndroidStudioProjects/GarmentManager/app/build/intermediates/res/merged/release/drawable-v21/ic_menu_gallery.xml",
+        "source": "/Users/sajidkhan/AndroidStudioProjects/GarmentManager/app/src/main/res/drawable-v21/ic_menu_gallery.xml"
+    },
+    {
+        "merged": "/Users/sajidkhan/AndroidStudioProjects/GarmentManager/app/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/sajidkhan/.android/build-cache/88a7040096bfc43c1853c72b4c66da238f7984a4/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/sajidkhan/AndroidStudioProjects/GarmentManager/app/build/intermediates/res/merged/release/drawable-v21/ic_menu_slideshow.xml",
+        "source": "/Users/sajidkhan/AndroidStudioProjects/GarmentManager/app/src/main/res/drawable-v21/ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "/Users/sajidkhan/AndroidStudioProjects/GarmentManager/app/build/intermediates/res/merged/release/drawable-v21/nav_home.png",
+        "source": "/Users/sajidkhan/AndroidStudioProjects/GarmentManager/app/src/main/res/drawable-v21/nav_home.png"
+    }
+]

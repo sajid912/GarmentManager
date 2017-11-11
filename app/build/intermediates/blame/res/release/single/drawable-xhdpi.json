@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/sajidkhan/AndroidStudioProjects/GarmentManager/app/build/intermediates/res/merged/release/drawable-xhdpi/ic_action_stat_share.png",
+        "source": "/Users/sajidkhan/AndroidStudioProjects/GarmentManager/app/src/main/res/drawable-xhdpi/ic_action_stat_share.png"
+    },
+    {
+        "merged": "/Users/sajidkhan/AndroidStudioProjects/GarmentManager/app/build/intermediates/res/merged/release/drawable-xhdpi/ic_action_stat_reply.png",
+        "source": "/Users/sajidkhan/AndroidStudioProjects/GarmentManager/app/src/main/res/drawable-xhdpi/ic_action_stat_reply.png"
+    }
+]

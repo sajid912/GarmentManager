@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/sajidkhan/AndroidStudioProjects/GarmentManager/app/build/intermediates/res/merged/release/menu/edit_garment.xml",
+        "source": "/Users/sajidkhan/AndroidStudioProjects/GarmentManager/app/src/main/res/menu/edit_garment.xml"
+    },
+    {
+        "merged": "/Users/sajidkhan/AndroidStudioProjects/GarmentManager/app/build/intermediates/res/merged/release/menu/activity_home_drawer.xml",
+        "source": "/Users/sajidkhan/AndroidStudioProjects/GarmentManager/app/src/main/res/menu/activity_home_drawer.xml"
+    },
+    {
+        "merged": "/Users/sajidkhan/AndroidStudioProjects/GarmentManager/app/build/intermediates/res/merged/release/menu/home.xml",
+        "source": "/Users/sajidkhan/AndroidStudioProjects/GarmentManager/app/src/main/res/menu/home.xml"
+    }
+]
